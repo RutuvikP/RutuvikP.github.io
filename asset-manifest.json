@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.68316557.js",
+    "main.css": "/static/css/main.4277d10e.css",
+    "main.js": "/static/js/main.ca08658f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Tata1mgClone.png": "/static/media/Tata1mgClone.ccdb5e74dd68bee9a9b3.png",
+    "static/media/ChakraLogo.png": "/static/media/ChakraLogo.09723fd8c5f56960fecc.png",
+    "static/media/AppleClone.png": "/static/media/AppleClone.5c4fb1b02e53f9b804a4.png",
+    "static/media/Rutuvik Patil Photo.png": "/static/media/Rutuvik Patil Photo.70d7ed8344cdb923c1d7.png",
+    "static/media/react-2.svg": "/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/github-icon-1.svg": "/static/media/github-icon-1.e0d7d7254ac0545743fc7af09c1e977b.svg",
+    "static/media/redux.svg": "/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/netlify.svg": "/static/media/netlify.c779369f482f2cbac69c91972c7157a7.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.68316557.js.map": "/static/js/main.68316557.js.map",
+    "static/media/css-3.svg": "/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html-1.svg": "/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.4277d10e.css.map": "/static/css/main.4277d10e.css.map",
+    "main.ca08658f.js.map": "/static/js/main.ca08658f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.68316557.js"
+    "static/css/main.4277d10e.css",
+    "static/js/main.ca08658f.js"
   ]
 }
