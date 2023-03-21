@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.4277d10e.css",
-    "main.js": "/static/js/main.ca08658f.js",
+    "main.js": "/static/js/main.472bb44f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/TripAdvisor Clone.png": "/static/media/TripAdvisor Clone.d89851c3ce9f50169065.png",
     "static/media/Tata1mgClone.png": "/static/media/Tata1mgClone.ccdb5e74dd68bee9a9b3.png",
+    "static/media/FrequencyWaveMedium.png": "/static/media/FrequencyWaveMedium.2dcfae1d835d3bca2eeb.png",
+    "static/media/FrequencyWaveDesktop.png": "/static/media/FrequencyWaveDesktop.c82feb1d1c05fe3e3c7f.png",
     "static/media/ChakraLogo.png": "/static/media/ChakraLogo.09723fd8c5f56960fecc.png",
     "static/media/AppleClone.png": "/static/media/AppleClone.5c4fb1b02e53f9b804a4.png",
     "static/media/Rutuvik Patil Photo.png": "/static/media/Rutuvik Patil Photo.70d7ed8344cdb923c1d7.png",
@@ -16,11 +19,11 @@
     "static/media/html-1.svg": "/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.4277d10e.css.map": "/static/css/main.4277d10e.css.map",
-    "main.ca08658f.js.map": "/static/js/main.ca08658f.js.map",
+    "main.472bb44f.js.map": "/static/js/main.472bb44f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4277d10e.css",
-    "static/js/main.ca08658f.js"
+    "static/js/main.472bb44f.js"
   ]
 }
