@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.4277d10e.css",
-    "main.js": "/static/js/main.472bb44f.js",
+    "main.js": "/static/js/main.44465f63.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/HomeVideoEdited.mp4": "/static/media/HomeVideoEdited.99ed30da4864d8f004e2.mp4",
     "static/media/TripAdvisor Clone.png": "/static/media/TripAdvisor Clone.d89851c3ce9f50169065.png",
     "static/media/Tata1mgClone.png": "/static/media/Tata1mgClone.ccdb5e74dd68bee9a9b3.png",
     "static/media/FrequencyWaveMedium.png": "/static/media/FrequencyWaveMedium.2dcfae1d835d3bca2eeb.png",
@@ -19,11 +20,11 @@
     "static/media/html-1.svg": "/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.4277d10e.css.map": "/static/css/main.4277d10e.css.map",
-    "main.472bb44f.js.map": "/static/js/main.472bb44f.js.map",
+    "main.44465f63.js.map": "/static/js/main.44465f63.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4277d10e.css",
-    "static/js/main.472bb44f.js"
+    "static/js/main.44465f63.js"
   ]
 }
