@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.8378944f.css",
-    "main.js": "/static/js/main.e76adbbc.js",
+    "main.js": "/static/js/main.a6da4ef5.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/HomeVideoEdited.mp4": "/static/media/HomeVideoEdited.00d05bd9671f57dd1ac0.mp4",
+    "static/media/LenskartClone.png": "/static/media/LenskartClone.248d8e3c99c4e246398f.png",
     "static/media/TripAdvisor Clone.png": "/static/media/TripAdvisor Clone.d89851c3ce9f50169065.png",
-    "static/media/Portfolio.png": "/static/media/Portfolio.e074c694c04b0c745ac1.png",
     "static/media/Tata1mgClone.png": "/static/media/Tata1mgClone.ccdb5e74dd68bee9a9b3.png",
     "static/media/Rutuvik-Patil-Resume.pdf": "/static/media/Rutuvik-Patil-Resume.740eebcf40e07716da5d.pdf",
     "static/media/ChakraLogo.png": "/static/media/ChakraLogo.09723fd8c5f56960fecc.png",
@@ -26,11 +26,11 @@
     "static/media/html-1.svg": "/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.8378944f.css.map": "/static/css/main.8378944f.css.map",
-    "main.e76adbbc.js.map": "/static/js/main.e76adbbc.js.map",
+    "main.a6da4ef5.js.map": "/static/js/main.a6da4ef5.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8378944f.css",
-    "static/js/main.e76adbbc.js"
+    "static/js/main.a6da4ef5.js"
   ]
 }
